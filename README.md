@@ -1,0 +1,2 @@
+# Javascript review by me
+This project is a review of Javascript concepts, from beginner to advanced.
